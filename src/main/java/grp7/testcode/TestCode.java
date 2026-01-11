@@ -11,6 +11,8 @@ package grp7.testcode;
 public class TestCode {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        int a = 4;
+        int b = 3;
+        System.out.println("Résultat : " + (a+b));
     }
 }
