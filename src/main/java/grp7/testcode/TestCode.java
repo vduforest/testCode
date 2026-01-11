@@ -16,5 +16,10 @@ public class TestCode {
         System.out.println("Résultat : " + (a+b));
         
         String histoire = "Il était une fois...";
+        
+        String fin = "FIN";
+        
+                    
+                
     }
 }
